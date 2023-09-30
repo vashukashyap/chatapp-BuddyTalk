@@ -113,6 +113,7 @@ const Login = () => {
               Your password
             </label>
             <input
+              minLength='8'
               type="password"
               name="password"
               id="password"
