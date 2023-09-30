@@ -192,6 +192,7 @@ const Signup = () => {
               Creat password
             </label>
             <input
+              minLength='8'
               type="password"
               name="password"
               id="password"
