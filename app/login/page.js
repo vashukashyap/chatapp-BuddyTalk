@@ -22,7 +22,7 @@ const Login = () => {
     if(username!=null && secret!=null){
       router.push('/chats')
     }
-  },[])
+  })
 
   useEffect(
     ()=>{
