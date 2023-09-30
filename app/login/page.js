@@ -17,12 +17,12 @@ const Login = () => {
   const router = useRouter();
 
 
-  useEffect( () => {
-    console.log(username,secret)
-    if(username!=null && secret!=null){
-      router.push('/chats')
-    }
-  },[])
+  useEffect( () => { // eslint-disable-next-line react-hooks/exhaustive-deps
+    console.log(username,secret) // eslint-disable-next-line react-hooks/exhaustive-deps
+    if(username!=null && secret!=null){ // eslint-disable-next-line react-hooks/exhaustive-deps
+      router.push('/chats') // eslint-disable-next-line react-hooks/exhaustive-deps
+    }  // eslint-disable-next-line react-hooks/exhaustive-deps
+  },[])  // eslint-disable-next-line react-hooks/exhaustive-deps
 
   useEffect(
     ()=>{
