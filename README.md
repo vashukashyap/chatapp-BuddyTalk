@@ -16,3 +16,13 @@ This app use [ChatEngine.io](https://chatengine.io/) api for providing chat serv
   * goto website [ChatEngine.io](https://chatengine.io/)
   * Signup and in 'My Projects' create 'New Project'.
   * in 'Project setting' you can see Project ID and Private key(api key) for your ChatEngine.
+
+
+# Buddy Talk
+
+![img](https://github.com/vashukashyap/chatapp-BuddyTalk/assets/129667408/d5dedaee-e8c9-4990-b199-18814bf08ee5)
+
+----
+
+![buddttalk_screenshot](https://github.com/vashukashyap/chatapp-BuddyTalk/assets/129667408/0c5a6d4b-e0a1-4235-a37d-165becb4ed77)
+
